@@ -1,7 +1,8 @@
 # Time-Series-Forecast---Revenue---Alaska-Airlines
 This repository contains the project "Time Series Forecasting of Alaska Airlines Revenue and Pandemic Impact", which aims to assess the financial impact of the COVID-19 pandemic on Alaska Airlines' revenue using time series analysis techniques.
 
-# Title of the Project : Time Series Forecasting of Alaska Airlines Revenue and Pandemic Impact
+# Title of the Project : 
+Time Series Forecasting of Alaska Airlines Revenue and Pandemic Impact
 
 # Description : 
 This project estimates the financial impacts of the COVID-19 pandemic on Alaska Airlines' revenue. Using quarterly revenue data from 2009 to 2023, various time series models were developed for analysis to determine the best model and hence gauge revenue fluctuations during the pandemic and post-pandemic period.
