@@ -55,7 +55,9 @@ The COVID-19 pandemic has severely affected various industries, with the airline
 •	Procedure: Develop various time series analysis models, determine the best model using accuracy metrics and deploying the same to forecast and compare revenue for pandemic and post-pandemic periods.
 
 # 4.	Methodology
+
 Data Preparation
+
 •	Data Transformation: Convert raw revenue data into CSV format suitable for analysis.
 
 •	Data Partitioning: Split data into training (2009-2016), validation (2017-2019), and future (2020-2023) sets.
@@ -65,12 +67,14 @@ Forecasting Models:
 i.	Naïve Model
 ii.	Seasonal Naïve Model
 iii.	Two-Level Forecasting models
+      
       a.	Regression Model with Linear Trend + Trailing Moving Average Models for window widths k = 2, 3, and 4
       
       b.	Regression Model with Quadratic Trend + Trailing Moving Average Models for window widths k = 2, 3, and 4
       
 iv.	Automated Holt-Winter’s Model
 v.	Regression Models
+   
     a.	Regression Model with Linear Trend
     
     b.	Regression Model with Quadratic Trend
